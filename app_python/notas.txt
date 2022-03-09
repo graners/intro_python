@@ -1,0 +1,4 @@
+Bruna,10,8,5,6
+Otavio,9,8,3,8
+Mateus,9,7,5,9
+Cesar,9,9,2,4
